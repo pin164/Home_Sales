@@ -11,7 +11,7 @@ knowledge of SparkSQL is used to determine key metrics about home sales data. Sp
 >>>3.3calculate the parquet DataFrame runtime and Report<br>
 4. Compare the runtimes
 **location within repository**<br>
->data file : on amazon aws see dependencies 
+>data file : on amazon aws see dependencies <br>
 code to run the model:Google Colab :Home_Sales.ipynb<br>
 original template to demonstrate runtime variances : Google Colabk :Home_Sales_starter_code_colab.ipynbb<br>
 
