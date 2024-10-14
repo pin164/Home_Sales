@@ -1,6 +1,6 @@
 # Home_Sales
 **brief description of the project**
-knowledge of SparkSQL is used to determine key metrics about home sales data. Spark is used to create temporary views, to partition the data, to cache and uncache temporary tables, to measure runtimes for cached uncached and partioned talbles.and finally compare runtimes.and verify that the table has been uncached.
+knowledge of SparkSQL is used to determine key metrics about home sales data. Spark is used to create temporary views, to partition the data, to cache and uncache temporary tables, to measure runtimes for cached uncached and partioned tables.        Finally compare runtimes, and verify that the table has been uncached.
 
 **summary of approach:**<br>
 >1.Prepare the environment Install Spark & Java, import packages, Create a SparkSession, Read in the AWS S3 bucket into a DataFrame.Create a temporary view of the DataFrame.<br>
