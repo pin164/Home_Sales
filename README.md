@@ -13,7 +13,7 @@ knowledge of SparkSQL is used to determine key metrics about home sales data. Sp
 **location within repository**<br>
 >data file : on amazon aws see dependencies <br>
 code to run the model:Google Colab :Home_Sales.ipynb<br>
-original template to demonstrate runtime variances : Google Colabk :Home_Sales_starter_code_colab.ipynbb<br>
+original template to demonstrate runtime variances : Google Colab:Home_Sales_starter_code_colab.ipynbb<br>
 
 **Code source**:Home_Sales.ipymb<br>
 
